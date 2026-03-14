@@ -1,0 +1,9 @@
+# Pastas de configuração e ambiente
+credencial/
+dataset/
+.venv/
+
+
+# Arquivos de variáveis de ambiente
+.env
+*.env
